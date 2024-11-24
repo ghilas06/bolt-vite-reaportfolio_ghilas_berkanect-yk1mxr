@@ -1,0 +1,1 @@
+// Ce composant n'est plus utilisé, il peut être supprimé

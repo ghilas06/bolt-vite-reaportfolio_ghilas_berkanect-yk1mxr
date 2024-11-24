@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "about": "À propos",
+    "projects": "Projets",
+    "experience": "Expérience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Développeur Mobile & IoT",
+    "description": "Passionné par le développement d'applications mobiles et de solutions IoT innovantes.",
+    "buttons": {
+      "projects": "Mes Projets",
+      "contact": "Me Contacter"
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "description": "5 ans d'expertise en développement mobile natif et cross-platform. Je conçois des applications robustes et intuitives en privilégiant la qualité et l'expérience utilisateur. À l'écoute de nouvelles opportunités en freelance ou CDI, n'hésitez pas à échanger avec moi ! 👋"
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "description": "Découvrez mes dernières réalisations en développement mobile et IoT",
+    "filters": {
+      "all": "Tous",
+      "mobile": "Mobile",
+      "web": "Web",
+      "iot": "IoT"
+    }
+  },
+  "experience": {
+    "title": "Mon Parcours",
+    "description": "Une expérience solide en développement mobile et IoT"
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "description": "Une idée de projet ? N'hésitez pas à me contacter !",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "send": "Envoyer",
+      "success": "Message envoyé avec succès!",
+      "error": "Erreur lors de l'envoi du message."
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "about": "About",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Mobile & IoT Developer",
+    "description": "Passionate about developing mobile applications and innovative IoT solutions.",
+    "buttons": {
+      "projects": "My Projects",
+      "contact": "Contact Me"
+    }
+  },
+  "about": {
+    "title": "About",
+    "description": "5 years of expertise in native and cross-platform mobile development. I design robust and intuitive applications with a focus on quality and user experience. Open to new freelance or full-time opportunities, don't hesitate to get in touch! 👋"
+  },
+  "projects": {
+    "title": "My Projects",
+    "description": "Discover my latest achievements in mobile and IoT development",
+    "filters": {
+      "all": "All",
+      "mobile": "Mobile",
+      "web": "Web",
+      "iot": "IoT"
+    }
+  },
+  "experience": {
+    "title": "My Journey",
+    "description": "A solid experience in mobile and IoT development"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Have a project idea? Don't hesitate to contact me!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send",
+      "success": "Message sent successfully!",
+      "error": "Error sending message."
+    }
+  }
+}
